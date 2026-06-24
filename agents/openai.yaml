@@ -1,0 +1,4 @@
+interface:
+  display_name: "报价单图片人工转 Excel"
+  short_description: "无 OCR 人工识别报价单图片并生成结构化 Excel"
+  default_prompt: "Use $manual-price-list-image-to-excel to manually transcribe a price-list image and export a verified structured Excel workbook without OCR."
